@@ -20,4 +20,8 @@ rregullit se si jan shkruar si dhe mos lini hapsira pas numrit
 të javës në rast të ndryshimeve në orarin e provimeve apo shtimit
 të orareve të reja.
 
+Programi është .exe dhe në rast mos-ekzekutimi problemin e keni 
+tek versioni i Java, programi është ndërtuar duke përdorur 
+Java SE - 13 , jdk-13.0.1
+
 Suksese!! 
